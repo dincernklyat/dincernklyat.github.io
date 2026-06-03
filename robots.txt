@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://samsundincernakliyat.com/sitemap.xml
